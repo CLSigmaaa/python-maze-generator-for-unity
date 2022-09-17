@@ -6,3 +6,11 @@ Python script that generates a random maze.
 
 <h1>How to use it ? </h1>
 <p>Run it.</br>You can change 2 parameters that will affect the generation on line 84 and 85</p>
+
+<h1>What does the result look like ? </h1>
+        &nbsp&nbsp&nbsp&nbsp&nbsp▼</br>
+      ╔╦╣</br>
+      ╚╬╣</br>
+        &nbsp &nbsp╟╬╗</br>
+      ►╩╬╣</br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp╚╝</br>
