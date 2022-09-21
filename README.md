@@ -1,7 +1,7 @@
 # python-maze-generator-for-unity
 Python script that generates a random maze.
 
-<h1>What's the use of this script </h1>
+<h1>What's the use of this script ?</h1>
 <p>The goal is to be able to generate a random maze using your own assets in Unity. This script is juste the simplified algorithm in Python.</br>For instance, you can create your own Prefabs and add them in the algorithm so that the maze will be generated with these Prefabs.</p>
 
 <h1>How to use it ? </h1>
